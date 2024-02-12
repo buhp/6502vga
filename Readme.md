@@ -6,6 +6,11 @@ A graphics chip made with a TinyFPGA-BX FPGA dev board for a ben eater like 6502
 ## Table of Contents (Optional)
 
 ## How to Install and Run the Project
+''' 
+apio verify
+apio build
+apio upload 
+'''
 
 ## How to Use the Project
 
