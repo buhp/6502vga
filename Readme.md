@@ -13,3 +13,6 @@ A graphics chip made with a TinyFPGA-BX FPGA dev board for a ben eater like 6502
 
 ## Add a License
 GPL-3.0
+
+
+https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
